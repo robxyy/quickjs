@@ -1,1 +1,9 @@
-.idea/
+# GoLand
+.idea
+*.iml
+
+# OSX
+.DS_Store
+
+/build
+go.sum
