@@ -4,7 +4,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/lithdew/quickjs"
+	"github.com/robxyy/quickjs"
 	"strings"
 )
 

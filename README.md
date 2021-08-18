@@ -1,7 +1,7 @@
 # quickjs
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](LICENSE)
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/lithdew/quickjs)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/robxyy/quickjs)
 [![Discord Chat](https://img.shields.io/discord/697002823123992617)](https://discord.gg/HZEbkeQ)
 
 Go bindings to [QuickJS](https://bellard.org/quickjs/): a fast, small, and embeddable [ES2020](https://tc39.github.io/ecma262/) JavaScript interpreter.
@@ -13,7 +13,7 @@ These bindings have been tested to cross-compile and run successfully on Linux, 
 ## Usage
 
 ```
-$ go get github.com/lithdew/quickjs
+$ go get github.com/robxyy/quickjs
 ```
 
 ## Guidelines
@@ -35,7 +35,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/lithdew/quickjs"
+	"github.com/robxyy/quickjs"
 	"strings"
 )
 
